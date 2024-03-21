@@ -1,0 +1,29 @@
+{
+  "name": "rerumvoluptas",
+  "version": "1.0.0",
+  "description": "A simple SHA-3 / Keccak / Shake hash function for JavaScript supports UTF-8 encoding.",
+  "main": "src/sha3.js",
+  "devDependencies": {
+    "expect.js": "~0.3.1",
+    "jscoverage": "~0.5.9",
+    "mocha": "~2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VirgilRenner/rerumvoluptas.git"
+  },
+  "keywords": [
+    "rerum",
+    "keccak",
+    "excepturi",
+    "magni",
+    "cryptography",
+    "HMAC"
+  ],
+  "license": "MIT",
+  "author": "TerrenceMann",
+  "homepage": "https://github.com/VirgilRenner/rerumvoluptas.git",
+  "bugs": {
+    "url": "https://github.com/VirgilRenner/rerumvoluptas.git/issues"
+  }
+}
